@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/Display Group Summaries/MainPage.xaml) (VB: [MainPage.xaml](./VB/Display Group Summaries/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Display Group Summaries/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Display Group Summaries/MainPage.xaml))
+<!-- default file list end -->
 # How to Display Group Summaries
 
 
